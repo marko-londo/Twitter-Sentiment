@@ -12,17 +12,19 @@ This repository contains a Jupyter notebook that demonstrates the use of Natural
 ## Visualizations
 
 ### Word Clouds
-
-- ![Positive Tweets Word Cloud](path_to_positive_tweets_wordcloud_image)
-- ![Negative Tweets Word Cloud](path_to_negative_tweets_wordcloud_image)
+- #### Positive Tweets
+![Positive Tweets Word
+Cloud](https://github.com/marko-londo/Twitter-Sentiment/blob/main/Images/poscloud.png?raw=true)
+- #### Negative Tweets
+![Negative Tweets Word Cloud](https://github.com/marko-londo/Twitter-Sentiment/blob/main/Images/negcloud.png?raw=true)
 
 ### Word Frequency
 
-- ![Word Frequency Bar Chart](path_to_word_frequency_bar_chart_image)
+![Word Frequency Bar Chart](https://github.com/marko-londo/Twitter-Sentiment/blob/main/Images/wordfreq.png?raw=true)
 
 ### Sentiment Analysis for Amazon Tweets
 
-- ![Amazon Tweets Sentiment Bar Chart](path_to_amazon_sentiment_bar_chart_image)
+![Amazon Tweets Sentiment Bar Chart](https://github.com/marko-londo/Twitter-Sentiment/blob/main/Images/negpos.png?raw=true)
 
 ## How to Use
 
