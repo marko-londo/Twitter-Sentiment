@@ -35,5 +35,9 @@ Cloud](https://github.com/marko-londo/Twitter-Sentiment/blob/main/Images/posclou
 
 ## Insights
 
-After training, the model was used to extract tweets mentioning Amazon, leading to various insights. Word cloud visualizations and a bar chart for word frequencies showcase the most common words in positive and negative tweets. The sentiment analysis bar chart then breaks down the overall sentiment of these Amazon-related tweets.
+After training, the model was used to extract tweets mentioning Amazon, leading
+to various insights. Word cloud visualizations and a bar chart for word
+frequencies showcase the most common words in positive and negative tweets. The
+sentiment analysis bar chart then breaks down the overall sentiment of these
+Amazon-related tweets. The model successfully achieved a 72% accuracy rate when predicting tweet sentiments.
 
